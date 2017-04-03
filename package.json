@@ -1,0 +1,22 @@
+{
+  "name": "pd_github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoonhyung-Jang/PD_Rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoonhyung-Jang/PD_Rep/issues"
+  },
+  "homepage": "https://github.com/Yoonhyung-Jang/PD_Rep#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
